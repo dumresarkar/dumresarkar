@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dumresarkar
+- 👋 Hi, I’m @dumresarkar Sabin Dumre
 - 👀 I’m interested in web development and graphics desinging
 - 🌱 I’m currently learning Graphics Designing and Web Developemnt 
-- 💞️ I’m looking to collaborate on 
 - 📫 you can contact me @ dumresabin@gmail.com
 
 <!---
