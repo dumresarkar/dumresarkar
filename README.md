@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sabin Dumre</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumresarkar" alt="dumresarkar" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sabdumre" target="blank"><img src="https://img.shields.io/twitter/follow/sabdumre?logo=twitter&style=for-the-badge" alt="sabdumre" /></a> </p>
 
-- 🔭 I’m currently working on [Thrive Support Solution](https://github.com/dumresarkar/Thrive_Support_Solution)
-
-- 🌱 I’m currently learning **MBA**
+- 🔭 I’m currently working on **Loading Skill.........**
 
 - 👨‍💻 All of my projects are available at [https://www.dumresabin.com.np/](https://www.dumresabin.com.np/)
 
-- 💬 Ask me about **C#.Net, Webdevelopement, SOftware Developement**
+- 💬 Ask me about **C#.Net, Webdevelopement, Software Developement**
 
 - 📫 How to reach me **dumresabin@gmail.com**
 
